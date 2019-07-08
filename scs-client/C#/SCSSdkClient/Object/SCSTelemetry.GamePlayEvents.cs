@@ -33,7 +33,7 @@ namespace SCSSdkClient.Object {
             public class Delivered {
                 public bool AutoLoaded;
                 public bool AutoParked;
-                public float CargoDamage;
+                public float CargoCamage;
                 public Time DeliveryTime;
                 public float DistanceKm;
                 public int EarnedXp;
