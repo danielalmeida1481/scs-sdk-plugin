@@ -296,10 +296,7 @@ The following telemetry fields are supported, structure is like the c# object. S
 		
 		SpecialEvents:
 			- On Job 
-			- Job Finished (flag that disappears after some time)
-			- ~~TrailerConnected~~ (removed)
-			- ~~TrailerDisconnected (Both trailer events use the same flag, trailerConnected, from the memory)~~ (removed)
-			- Job Cancelled (1.14/1.01) (may not work atm?)
+			- Job Cancelled (1.14/1.01)
 			- Job Delivered (1.14/1.01)
 			- Fined (1.14/1.01)
 			- Tollgate (1.14/1.01)
